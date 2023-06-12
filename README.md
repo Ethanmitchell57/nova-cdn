@@ -9,3 +9,5 @@ https://raw.githack.com/Ethanmitchell57/nova-cdn/main/9NCeFv3EoCO1f8e.css
 https://raw.githack.com/Ethanmitchell57/nova-cdn/main/G1ixT7Zmd281f8e.css
 
 https://raw.githack.com/Ethanmitchell57/nova-cdn/main/Tgk2NvXtFyh1f8e.css
+
+https://raw.githack.com/Ethanmitchell57/nova-cdn/main/script01.js
